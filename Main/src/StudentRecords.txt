@@ -1,0 +1,2 @@
+ID: SE123456, Name: Nguyen Van A, Phone: 0334632490, Email: example@gmail.com, Mountain Code: 1, Tuition Fee: 3900000.0
+ID: HE789012, Name: Tran Thi B, Phone: 0356789012, Email: b.tran@gmail.com, Mountain Code: 2, Tuition Fee: 2500000.0
